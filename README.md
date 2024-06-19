@@ -8,7 +8,6 @@ I'm Kim Jun Su, software developer from Korea<br>
 
 - 🌱 **C**omputer <b>S</b>oftware <b>E</b>ngineering
 - 📫 : jake_kjs05@naver.com
-- ⚡ Fun fact: [something interesting about you]
 
 ## Skills
 

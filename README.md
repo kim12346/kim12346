@@ -1,6 +1,6 @@
 # Hi there,
 
-I'm Kim Jun Su, software developer from Korea<br>
+I'm Kim Jun Su, software developer from S.Korea<br>
 아임 초보^_^
 
 

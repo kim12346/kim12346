@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi there,
 
-I'm Kim Jun Su, software developer from Korea
-
+I'm Kim Jun Su, software developer from Korea<br>
+아임 초보^_^
 
 
 ## About Me
@@ -18,12 +18,10 @@ I'm Kim Jun Su, software developer from Korea
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools and Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
 - None
 - None
 
 ## Connect with Me
-[![Instagram](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/j_.kjs05?igsh=cXZwYWo4YnNqbzF4)
+[![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=orange)](https://www.instagram.com/j_.kjs05?igsh=cXZwYWo4YnNqbzF4)

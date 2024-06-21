@@ -1,7 +1,6 @@
 # Hi there,
 
 Software Developer from S.Korea<br>
-아임 초보^_^
 
 
 ## About Me

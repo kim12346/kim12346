@@ -1,7 +1,7 @@
 # Hi there,
 
 Software Developer from S.Korea<br>
-
+CSE
 
 ## About Me
 

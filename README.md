@@ -23,3 +23,4 @@ CSE
 
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=orange)](https://www.instagram.com/j_.kjs05?igsh=cXZwYWo4YnNqbzF4)
+좀 잘꾸몄는데?ㅋ
